@@ -1,6 +1,6 @@
 # Duplicate files detector
 
-**Deprecated**: Will not longer be maintained as [jdupes](https://codeberg.org/jbruchon/jdupes) is a lot faster.
+⚠️ **Deprecated**: Will not longer be maintained as [jdupes](https://codeberg.org/jbruchon/jdupes) is a lot faster.
 
 Detects duplicate files in a whole directory (and its subdirectories) based on their md5 hash.
 
